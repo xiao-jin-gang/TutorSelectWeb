@@ -1,0 +1,29 @@
+/*
+ * @Author: Rex Joush
+ * @Date: 2021-08-13 16:31:52
+ * @LastEditors: Rex Joush
+ * @LastEditTime: 2021-08-17 09:35:50
+ */
+ 
+/*
+  全局 css 自定义文件
+*/
+
+.main {
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+}
+
+/* 导师申请页面 */
+// 分割线标题
+.divider-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+// 添加弹框按钮
+.addButton {
+  margin-bottom: 10px;
+}
