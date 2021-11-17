@@ -154,7 +154,13 @@ export const academicMasterPrimaryDiscipline = [
     professional: [
       { code: '0101', degreeAuthorizationPoint: '哲学', disciplineCategory: '哲学' }
     ]
-  }
+  },
+  {
+    department: '中国思想文化研究所',
+    professional: [
+      { code: '0602', degreeAuthorizationPoint: '中国史', disciplineCategory: '历史学' }
+    ]
+  },
 ]
 
 // 硕士一级学科列表, 不分院系
