@@ -5,5 +5,5 @@
  * @LastEditTime: 2021-08-11 14:12:16
  */
 
-export const baseUrl = 'http://xit.nwu.edu.cn:8081'
+export const baseUrl = 'http://localhost:8081'
 
